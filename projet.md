@@ -1,4 +1,4 @@
-# Projet JAVA - Puissance 4 (le vrai)
+# Projet ALGO - JAVA - Puissance 4 (le vrai)
 
 # I- Sujet
 
@@ -79,9 +79,13 @@ Cette IA sera encore plus avançée, comme la deuxième elle sélectionnera alé
 
 La c'est le top, non seulement elle reprend les éléments des niveau 2 et 3 mais en plus elle ne choisira pas une colonne aléatoirement. Elle cherchera la colonne qui permet d'aligner les pions.
 
+### Documentation
+
+Le code complet devra être documenté. La documentation format html doit être générée.
+
 # Groupes et fonctionnement
 
-Le projet est a développé en groupe de 3/4 personnes.
+Le projet est a développé en groupe de 4 personnes.
 Tous les groupes seront définis en cours, sous la supervision du PO. Les groupes s'enregistrent avec un nom de groupe ainsi que les noms de leurs membres.
 
 Toute inscription est définitive.  Les étudiants ne sont pas autorisés, par la suite, à changer de groupe.
@@ -92,7 +96,7 @@ Les étudiants sont encouragés (mais pas obligés) à mettre en place un systè
 
 # Présentation et rendu
 
-Le rendu aura lieux le jeudi 19 janvier 2023.
+Le rendu aura lieux le vendredi 27 janvier 2023.
 
 Les rendus doivent figurer sur un seul compte par groupe.
 Le rendu s'effectu via un repos GIT. L'adresse du rendu est envoyé par mail.
@@ -107,16 +111,7 @@ Pour tout autre type de fichier, veuillez demander à l'enseignant si son inclus
 La soutenance dure 10 minutes durant lesquelles les membres présentent leur travail. Un échange de questions peut se faire entre le professeur et les membres du groupe.
 
 Les groupes sont les suivants:
-- Hywel, Guillaume, ESTEBAN
-- Adam, Bastien V, Mounir
-- Julien, Zineb, ALEXANDRE
-- Lucas, Mathéo, Raphael
-- Jordan, Jean, Fabien
-- Sylvian, Théo, Bastien B, Florian
-- Coralie, Diego, MArco, Hamza
-- Mathis, Mathis, Célian, Noa
-- Matteo, Khaled, Valdo, Eduardo
-- Noé, Jeff, Quentin, Ben-Youcef
+
 
 
 
