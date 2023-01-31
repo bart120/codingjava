@@ -112,7 +112,7 @@ La soutenance dure 10 minutes durant lesquelles les membres présentent leur tra
 
 Les groupes sont les suivants:
 
-
-
+- Mathys, Alexandre, Elisa, Medhi
+- Mathieu, Kevin, Elman, Kenza
 
 
