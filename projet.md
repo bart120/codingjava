@@ -96,7 +96,7 @@ Les étudiants sont encouragés (mais pas obligés) à mettre en place un systè
 
 # Présentation et rendu
 
-Le rendu aura lieux le vendredi 27 janvier 2023.
+Le rendu aura lieux le vendredi 3 février 2023.
 
 Les rendus doivent figurer sur un seul compte par groupe.
 Le rendu s'effectu via un repos GIT. L'adresse du rendu est envoyé par mail.
