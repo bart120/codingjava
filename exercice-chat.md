@@ -38,21 +38,32 @@ Vince:salut
 Vince:ça va ?
 
 Vince:je parle seul :'(
-  
+
 Le client s'est déconnecté
+
 Un client est connecté depuis 127.0.0.1:448
+
 Un client est connecté depuis 10.52.16.42:448
+
 Vince:salut
+
 Bruno:salut!!
+
 (...)
 
 ### Côté client
 Lancement du client ...
+
 Votre pseudo?"Vince"
+
 Bonjour Vince, le chat commence...
+
 Bruno vient de se connecter
+
 Moi: salut
+
 Bruno:salut!!
+
 (...)
 
 ### Documentation
