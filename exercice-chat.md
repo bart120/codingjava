@@ -30,10 +30,15 @@ Voici une liste d'exigences pour le serveur :
 ## Exemple
 ### Côté serveur
 Lancement du serveur ...
+
 Un client est connecté depuis 127.0.0.1:448
+
 Vince:salut
+
 Vince:ça va ?
+
 Vince:je parle seul :'(
+  
 Le client s'est déconnecté
 Un client est connecté depuis 127.0.0.1:448
 Un client est connecté depuis 10.52.16.42:448
