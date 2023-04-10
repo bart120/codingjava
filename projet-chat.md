@@ -1,9 +1,10 @@
-# Exercice ALGO - Chat d'avril
+# PROJET - Chat d'avril
 
 # I- Sujet
 
 Le but de ce tp, est de créer une application de discussion, permettant de communiquer avec la personne que l'on souhaite et peu importe l'endroit où on se trouve. En fait: un Chat.
 Vous devez réaliser cette application dans le langaguage que vous souhaitez parmis les suivants: java, C#, python.
+Le serveur et le client devront être écris dans des langages différents.
 
 ## Le client
 
@@ -15,6 +16,7 @@ Voici une liste d'exigences pour le client :
 - Prévenir les autres utilisateurs qu'un utilisateur s'est connecté/déconnecté
 - Le client et le serveur communiquent via le protocole TCP
 - Utiliser les SCOKET et le MULTI-THREAD 
+- Le client peut être en interface graphique ou en console
 
 ## Le serveur
 
@@ -26,53 +28,27 @@ Voici une liste d'exigences pour le serveur :
 - Doit stocker en mémoire la liste des clients
 - Le client et le serveur communiquent via le protocole TCP
 - Utiliser les SCOKET et le MULTI-THREAD 
+- Le serveur doit être en console
 
-## Exemple
-### Côté serveur
-Lancement du serveur ...
+## Discution privée
 
-Un client est connecté depuis 127.0.0.1:448
+Un utilisateur peut envoyer un message à un autre utilisateur en privé, ce qui signifie que les autres utilisateurs sur le chat ne verront pas ce message.
+Pour cela il sélectionne le pseudo de son interlocuteur privé et lui envoie le message. L'utilisateur recevant le message doit savoir que c'est un message privé.
 
-Vince:salut
+## Groupe (bonus)
 
-Vince:ça va ?
+Un utilisateur peut créer un groupe, puis ajouter d'autre utilisateur dans le groupe.
+Dans ce cas tous les messages envoyés dans ce groupe ne sont lisibles que par les membres du groupe.
+Un utilisateur peut quitter le groupe quand il le souhaite, le créateur du groupe peut supprimer un membre quand il le souhaite.
 
-Vince:je parle seul :'(
 
-Le client s'est déconnecté
-
-Un client est connecté depuis 127.0.0.1:448
-
-Un client est connecté depuis 10.52.16.42:448
-
-Vince:salut
-
-Bruno:salut!!
-
-(...)
-
-### Côté client
-Lancement du client ...
-
-Votre pseudo?"Vince"
-
-Bonjour Vince, le chat commence...
-
-Bruno vient de se connecter
-
-Moi: salut
-
-Bruno:salut!!
-
-(...)
-
-### Documentation
+## Documentation
 
 Le code complet devra être documenté.
 
 # Groupes et fonctionnement
 
-Le projet est a développé en équipe de 2 personnes. Vous choisissez votre binôme.
+Le projet est a développé en équipe de 4 personnes. Vous choisissez votre groupe.
 
 Toute inscription est définitive.  Les étudiants ne sont pas autorisés, par la suite, à changer de groupe.
 
@@ -82,7 +58,7 @@ Les étudiants sont encouragés (mais pas obligés) à mettre en place un systè
 
 # Présentation et rendu
 
-Le rendu aura lieux le mercredi 5 avril 2023.
+Le rendu aura lieux le vendredi 14 avril 2023.
 
 Les rendus doivent figurer sur un seul compte par groupe.
 Le rendu s'effectu via un repos GIT. L'adresse du rendu est envoyé par mail.
